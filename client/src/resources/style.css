@@ -1,0 +1,32 @@
+header {
+    height: 6%;
+    position: absolute;
+    width: 100%;
+    left: 0;
+    top: 0;
+}
+
+main {
+    height: 91%;
+    position: absolute;
+    width: 100%;
+    left: 0;
+    top: 6%;
+}
+
+.table tbody tr:hover td, .table tbody tr:hover th {
+    background-color: #eeeeea;
+}
+
+.my-class {
+    height: 87%;
+    overflow: auto
+}
+
+footer {
+    height: 3%;
+    position: absolute;
+    width: 100%;
+    left: 0;
+    bottom: 0;
+}
